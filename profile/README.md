@@ -1,1 +1,1 @@
-<img src="https://github.com/Overdose-today/.github/blob/main/logo_1024x512.png" width="80%" height="80%">
+<img src="https://github.com/Overdose-today/.github/blob/main/banner.png" width="100%" height="100%">
